@@ -35,7 +35,7 @@ def main():
             print(f"User prompt: {user_prompt}")
             print(f"Prompt tokens: {prompt_tokens}")
             print(f"Response tokens: {response_tokens}")
-			
+            
 
 if __name__ == "__main__":
     main()
