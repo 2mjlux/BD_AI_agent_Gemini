@@ -29,9 +29,8 @@ long_line_column=72
 
 [files]
 current_page=1
-FILE_NAME_0=891;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Fmain.py;0;4
-FILE_NAME_1=1031;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Fget_files_info.py;0;4
-FILE_NAME_2=310;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ftests.py;0;4
+FILE_NAME_0=136706;None;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Fcalculator%2Florem.txt;0;4
+FILE_NAME_1=1459;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ftests.py;0;4
 
 [VTE]
 last_dir=/home/martin
