@@ -1,4 +1,6 @@
 import os
+from google.genai import types
+
 
 def write_file(working_directory, file_path, content):
     combined_file_path = os.path.join(working_directory, file_path)
@@ -17,3 +19,21 @@ def write_file(working_directory, file_path, content):
         return f"Error: {str(e)}"
             
             
+# Building function declaration (schema)
+schema_write_file = types.FunctionDeclaration(
+    name="write_file",
+    description="Writes specified content to the specified file path.",
+    parameters=types.Schema(
+        type=types.Type.OBJECT,
+        properties={
+            "file_path": types.Schema(
+                type=types.Type.STRING,
+                description="The file path to read the file from, relative to the working directory. Generates error message if not provided.",
+            ),
+            "content": types.Schema(
+                type=types.Type.STRING,
+                description="The content to be written into the file",
+            )
+        },
+    ),
+)
