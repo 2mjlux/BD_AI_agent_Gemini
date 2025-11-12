@@ -29,13 +29,13 @@ long_line_column=72
 
 [files]
 current_page=7
-FILE_NAME_0=3715;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Fmain.py;0;4
-FILE_NAME_1=1590;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Fcall_function.py;0;4
-FILE_NAME_2=1616;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Fget_files_info.py;0;4
-FILE_NAME_3=1130;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Fget_file_content.py;0;4
-FILE_NAME_4=0;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Fconfig.py;0;4
-FILE_NAME_5=2222;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Frun_python_file.py;0;4
-FILE_NAME_6=1556;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Fwrite_file.py;0;4
+FILE_NAME_0=1590;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Fcall_function.py;0;4
+FILE_NAME_1=4466;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Fmain.py;0;4
+FILE_NAME_2=1556;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Fwrite_file.py;0;4
+FILE_NAME_3=1616;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Fget_files_info.py;0;4
+FILE_NAME_4=1130;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Fget_file_content.py;0;4
+FILE_NAME_5=0;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Fconfig.py;0;4
+FILE_NAME_6=2222;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Ffunctions%2Frun_python_file.py;0;4
 FILE_NAME_7=0;Python;0;EUTF-8;0;1;0;%2Fhome%2Fmartin%2Fworkspace%2Fgithub.com%2F2mjlux%2FAI_agent%2Fcalculator%2Ftests.py;0;4
 
 [VTE]
